@@ -1,2 +1,1 @@
-# site_setup
-Generic Template for Website Setup
+# Nick Richardson Design Portfolio
